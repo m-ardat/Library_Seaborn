@@ -18,7 +18,7 @@
 Репозиторий содержит:
 | Виды графиков | Наименование графиков |
 |----------|----------|
-| Графики отношений (Relational plots)  | Диаграмма рассеяния (scatter plot) <br> Линейный график (line plot) <br> Реляционный график (relplot)|
+| Графики отношений (Relational plots)  | [Диаграмма рассеяния (scatter plot)](https://github.com/m-ardat/Library_Seaborn/blob/main/scatter%20plot.ipynb) <br> Линейный график (line plot) <br> Реляционный график (relplot)|
 |Графики распределения (Distribution plots) | Сглаженная оценка плотности вероятности для непрерывных данных (kdeplot) <br> Гистограмма (histplot) <br> Эмпирическая функция распределения (ecdfplot) <br> Различные виды графиков распределения (displot)|
 | | |
 
