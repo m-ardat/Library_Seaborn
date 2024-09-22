@@ -18,9 +18,9 @@
 Репозиторий содержит:
 | Виды графиков | Наименование графиков |
 |----------|----------|
-| Графики отношений (Relational plots)  | [Диаграмма рассеяния (scatter plot)](https://github.com/m-ardat/Library_Seaborn/blob/main/scatter%20plot.ipynb) <br> [Линейный график (line plot)](https://github.com/m-ardat/Library_Seaborn/blob/main/line%20plot.ipynb) <br> [Реляционный график (relplot)](https://github.com/m-ardat/Library_Seaborn/blob/main/relplot.ipynb)|
+|Графики отношений (Relational plots)  | [Диаграмма рассеяния (scatter plot)](https://github.com/m-ardat/Library_Seaborn/blob/main/scatter%20plot.ipynb) <br> [Линейный график (line plot)](https://github.com/m-ardat/Library_Seaborn/blob/main/line%20plot.ipynb) <br> [Реляционный график (relplot)](https://github.com/m-ardat/Library_Seaborn/blob/main/relplot.ipynb)|
 |Графики распределения (Distribution plots) | [Сглаженная оценка плотности вероятности для непрерывных данных (kdeplot)](https://github.com/m-ardat/Library_Seaborn/blob/main/kdeplot.ipynb) <br> [Гистограмма (histplot)](https://github.com/m-ardat/Library_Seaborn/blob/main/histplot.ipynb) <br> [Эмпирическая функция распределения (ecdfplot)](https://github.com/m-ardat/Library_Seaborn/blob/main/ecdfplot.ipynb) <br> [Различные виды графиков распределения (displot)](https://github.com/m-ardat/Library_Seaborn/blob/main/displot.ipynb)|
-| | |
+|Категориальные графики (Categorical plots) | |
 
 
 
